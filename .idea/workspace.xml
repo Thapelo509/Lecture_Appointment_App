@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="2b3479e8-7316-41ba-8e04-2d98cf0706cc" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/frontend/client/src/Layout.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frontend/client/src/components/Layout.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frontend/client/src/components/ProtectedRoute.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frontend/client/src/components/PublicRoute.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frontend/client/src/pages/StuList.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontend/client/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/frontend/client/package-lock.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontend/client/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/frontend/client/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontend/client/public/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/frontend/client/public/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontend/client/src/App.js" beforeDir="false" afterPath="$PROJECT_DIR$/frontend/client/src/App.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontend/client/src/App.test.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontend/client/src/index.css" beforeDir="false" afterPath="$PROJECT_DIR$/frontend/client/src/index.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontend/client/src/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/frontend/client/src/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontend/client/src/logo.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontend/client/src/reportWebVitals.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontend/client/src/setupTests.js" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/frontend/client" />
+  </component>
+  <component name="ProjectId" id="2HdoEV7oFstvMVpR7MtF7SyMOiO" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/backend" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="2b3479e8-7316-41ba-8e04-2d98cf0706cc" name="Default Changelist" comment="" />
+      <created>1668624212152</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1668624212152</updated>
+      <workItem from="1668624246997" duration="1045000" />
+      <workItem from="1669126824636" duration="1606000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="2" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="462" y="105" key="FileChooserDialogImpl" timestamp="1668625369483">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="462" y="105" key="FileChooserDialogImpl/0.0.1366.728@0.0.1366.728" timestamp="1668625369483" />
+  </component>
+</project>
